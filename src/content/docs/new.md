@@ -1,9 +1,12 @@
 ---
-title: "Заглавие на документа"
+title: "Destroy"
 description: "Кратко описание"
 date: 2025-10-14
-author: "Вашето име"
-tags: ["tag1", "tag2"]
+author: "Ivan Genov"
+tags: ["ex1", "test"]
 ---
 
 # Вашето съдържание тук
+```javascript
+console.log("Hello, DevOps!");
+```
